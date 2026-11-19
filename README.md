@@ -38,7 +38,7 @@ Non tutte le norme sono implementabili in CSL. Quando una segnalazione dipende d
 
 ## Licenza
 
-Il contenuto è distribuito con licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0). Vedi il file [LICENSE.md](LICENSE.md).
+Il contenuto è distribuito con licenza Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale (CC BY-NC-SA 4.0). Vedi il file [LICENSE.md](LICENSE.md).
 
 ## Autrice
 
