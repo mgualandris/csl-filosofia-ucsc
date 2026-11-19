@@ -1,2 +1,4 @@
 *.docx
-diario_lavoro.md
+diario-lavoro.md
+indicazioni-*
+.DS_Store
